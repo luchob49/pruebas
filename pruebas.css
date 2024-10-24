@@ -1,0 +1,13 @@
+* {
+    font-size: 30px;
+    font-family: "Arima", sans-serif;
+    font-weight: 500;
+}
+h2{
+    display: inline-block;
+    background-color: rgb(196, 7, 7);
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 50px ;        
+}
